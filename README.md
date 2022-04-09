@@ -14,4 +14,4 @@ https://github.com/soham-sagade/
 
 ### Contact
 
-For any queries : pranam707@gmail.com
+For any queries : sohamsagade33@gmail.com
