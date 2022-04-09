@@ -1,3 +1,7 @@
+/*
+Takes a variable string and returns a camelCase version
+*/
+
 const toCamelCase = function (variable) {
   variable = variable.split("");
   for (let i = 0; i < variable.length; i++) {
