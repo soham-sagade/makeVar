@@ -13,6 +13,4 @@ const toCamelCase = function (variable) {
   return variable.join("");
 };
 
-console.log(toCamelCase("soham-sagade_pqr"));
-
 module.exports = { toCamelCase };
