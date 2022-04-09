@@ -1,0 +1,33 @@
+{
+  "name": "makevar",
+  "version": "1.0.0",
+  "description": "A package to customize variable names",
+  "main": "index.js",
+  "keywords": [
+    "npm",
+    "vars",
+    "format"
+  ],
+  "scripts": {
+    "test": "test"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soham-sagade/makeVar.git"
+  },
+  "author": "soham-sagade",
+  "license": "MIT",
+  "private": false,
+  "bugs": {
+    "url": "https://github.com/soham-sagade/makeVar/issues",
+    "email": "sohamsagade33@gmail.com"
+  },
+  "homepage": "https://github.com/soham-sagade/makeVar#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "engineStrict": true
+}
